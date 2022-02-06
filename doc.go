@@ -1,1 +1,1 @@
-package go-ticker
+package main
